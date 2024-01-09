@@ -1,7 +1,7 @@
 Hello everyone in this we i am learning about various types of array 
 what i found out is 
 
-      #One-dimensional Array: Linear list of elements accessed by index.
+      One-dimensional Array: Linear list of elements accessed by index.
       
       Multi-dimensional Array: Array of arrays, representing tables or matrices.
           
